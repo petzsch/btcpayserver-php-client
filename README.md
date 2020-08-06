@@ -10,7 +10,7 @@ To get up and running with our PHP library quickly, follow [The GUIDE](https://g
 
 ## Support
 
-* https://github.com/btcpayserver/btcpayserver-php-client/issues
+* https://github.com/petzsch/btcpayserver-php-client/issues
 
 ## Important upgrade notes
 
@@ -46,12 +46,12 @@ curl -sS https://getcomposer.org/installer | php
 #### Install using composer
 
 ```bash
-php composer.phar require btcpayserver/btcpayserver-php-client
+php composer.phar require petzsch/btcpayserver-php-client
 ```
 
 ## Configuration
 
-See https://github.com/btcpayserver/btcpayserver-php-client/tree/master/examples
+See https://github.com/petzsch/btcpayserver-php-client/tree/master/examples
 
 ## Contribute
 
